@@ -5,6 +5,6 @@ module3
 
 getche();
 }
-
+ print $mod3
 
 

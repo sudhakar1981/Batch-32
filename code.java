@@ -5,12 +5,12 @@ int ;
 
 module3 = 31
 
-module3a
+module3a = 22
 
 getche();
 }
  print $module3
-
+print $module3a
 
 //Sudheer did the variable assignment here
 int a;

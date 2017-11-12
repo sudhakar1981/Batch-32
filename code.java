@@ -4,7 +4,7 @@ int ;
 
 module3 = 31
 
-module3a
+module3a = 22
 
 getche();
 }

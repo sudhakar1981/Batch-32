@@ -5,12 +5,12 @@ int a;
 
 
 //faraz assign here
-
+a = 30;
 
 //Ravi pls print below this
 
 
-a = 30;
+
 getche(
 echo a;
 );

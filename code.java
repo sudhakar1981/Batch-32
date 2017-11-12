@@ -1,8 +1,7 @@
 void main()
 {
 int ;
-
-mode3
+module3
 
 getche();
 }

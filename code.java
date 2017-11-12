@@ -11,9 +11,10 @@ a = 30;
 
 
 
-getche(
+getche()
+{
 echo a;
-);
+}
 }
 
 

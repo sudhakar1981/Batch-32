@@ -22,9 +22,7 @@ getche();
 
 
 print $module3a
-
-
-
+ 
 //Sudheer did the variable assignment here
 int a;
 
@@ -56,8 +54,9 @@ System.out.println("Hello, Module2");
 
 }
 
-<<<<<<< HEAD
-print $module3
-=======
 
->>>>>>> f27efee724963c7c96934f524e4b11372aede226
+print $module3
+
+ module1
+
+

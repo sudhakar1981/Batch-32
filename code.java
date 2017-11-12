@@ -9,12 +9,11 @@ a = 30;
 
 //Ravi pls print below this
 
-
-
 getche()
 {
 echo a;
 }
+
 }
 
 

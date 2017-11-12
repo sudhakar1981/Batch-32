@@ -1,4 +1,8 @@
+
 Added by siva
+
+EASWAR UPDATED LINE 1
+
  Note that the only valid version of the GPL as far as this project
  is concerned is _this_ particular version of the license (ie v2, not
  v2.2 or v3.x or whatever), unless explicitly otherwise stated.
@@ -97,6 +101,9 @@ is covered only if its contents constitute a work based on the
 Program (independent of having been made by running the Program).
 Whether that is true depends on what the Program does.
 
+
+MY NAME IS FARAZ. I AM LEARNING DEVOPS
+
   1. You may copy and distribute verbatim copies of the Program's
 source code as you receive it, in any medium, provided that you
 conspicuously and appropriately publish on each copy an appropriate
@@ -147,6 +154,10 @@ your rights to work written entirely by you; rather, the intent is to
 exercise the right to control the distribution of derivative or
 collective works based on the Program.
 
+
+FIle edited by Sudheer Javvaji
+
+
 In addition, mere aggregation of another work not based on the Program
 with the Program (or with a work based on the Program) on a volume of
 a storage or distribution medium does not bring the other work under
@@ -172,7 +183,9 @@ Sections 1 and 2 above provided that you also do one of the following:
     allowed only for noncommercial distribution and only if you
     received the program in object code or executable form with such
     an offer, in accord with Subsection b above.)
+
 +++++++++CHANGES ADDED BY PATIL++++++++
+
 The source code for a work means the preferred form of the work for
 making modifications to it.  For an executable work, complete source
 code means all the source code for all modules it contains, plus any
@@ -197,7 +210,9 @@ void, and will automatically terminate your rights under this License.
 However, parties who have received copies, or rights, from you under
 this License will not have their licenses terminated so long as such
 parties remain in full compliance.
+
 SIVA
+
   5. You are not required to accept this License, since you have not
 signed it.  However, nothing else grants you permission to modify or
 distribute the Program or its derivative works.  These actions are

@@ -1,3 +1,10 @@
 void main()
+{
+int ;
 
-nt a,b,c
+
+getche();
+}
+
+
+

@@ -16,6 +16,8 @@ module3a = 22
 getche();
 }
  print $module3
+
+
 print $module3a
 
 
@@ -36,6 +38,10 @@ echo a;
 int ;
 
 
+
+
+
+print $module3a
 
 getche();
 

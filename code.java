@@ -1,7 +1,7 @@
 void main()
 {
 
-int ;
+int a,c;
 
 module3 = 31
 

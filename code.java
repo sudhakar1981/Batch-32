@@ -1,6 +1,6 @@
 void main()
 {
-<<<<<<< HEAD
+
 int ;
 
 module3 = 31
@@ -9,7 +9,7 @@ module3 = 31
 getche();
 }
  print $mod3
-=======
+
 //Sudheer did the variable assignment here
 int a;
 
@@ -26,6 +26,6 @@ echo a;
 
 }
 
->>>>>>> module1
+
 
 

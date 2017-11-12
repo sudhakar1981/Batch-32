@@ -1,7 +1,9 @@
 void main()
 {
 int ;
-module3
+
+module3 = 31
+
 
 getche();
 }

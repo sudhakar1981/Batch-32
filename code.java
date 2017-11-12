@@ -1,6 +1,6 @@
 void main()
 {
-int ;
+int a;
 
 
 getche();

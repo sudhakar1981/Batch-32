@@ -9,5 +9,5 @@ module3a = 22
 getche();
 }
  print $module3
-
+print $module3a
 

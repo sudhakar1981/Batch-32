@@ -6,9 +6,26 @@ int ;
 module3 = 31
 
 
+
+
+
+getche();
+}
+ print $mod3
+
+
+module3a = 22
+
+
 getche();
 }
  print $module3
+
+
+
+
+print $module3a
+ 
 
 //Sudheer did the variable assignment here
 int a;
@@ -24,8 +41,32 @@ getche()
 echo a;
 }
 
+
 }
 
+
+
+int ;
+
+
+
+
+
+print $module3a
+
+getche();
+
+String patil = "added by patil";
+
+int a = 10;
+System.out.println("Hello, Module2");
+
+}
+
+
+print $module3
+
+ module1
 
 
 
